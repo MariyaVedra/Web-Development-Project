@@ -1,0 +1,45 @@
+a{
+  font-size:35px;
+  object-fit:cover;
+  text-align: center;
+  color:black;;
+}
+.ok{
+  float:left;
+  height:25px;
+  width:25px;
+  border-radius:25px;
+  margin-right:10px;
+}
+.ok1{
+  float:left;
+  height:40px;
+  width:75px;
+  border-radius:25px;
+  margin-right:10px;
+}
+body{
+  background-color:#D3D3D3;
+}
+#okay{
+  text-align:center;
+}
+#controller{
+  height:500px;
+  width:750px;
+  object-fit: cover;
+  float:right;
+  margin-left: auto;
+}
+.line{
+  height: 100px;
+  width:1500px;
+}
+.jumptotopbutton{
+  font-size:50px;
+}
+.reviews{
+  height:100px;
+  width:600px;
+
+}
